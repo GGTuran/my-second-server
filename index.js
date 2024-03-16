@@ -8,7 +8,7 @@ app.get('/', (req,res) =>{
 
 
 app.get("/data", (req, res) =>{
-    res.send("need to assign some data");
+    res.send("need to assign some data asap");
 })
 
 app.listen(port, () =>{
