@@ -10,6 +10,10 @@ const Chats = () => {
     <span>Message sent successfully.</span>
   </div>
 </div>
+
+
+
+
  
     );
 };
